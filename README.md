@@ -1,10 +1,5 @@
 <h1 align="center">print("Hello World !")</h1>
 
-###
-
-<img src="https://raw.githubusercontent.com/PedroTi-cmd/PedroTi-cmd/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="center">Olá, Meu nome é Pedro e sou estudante/programador em python e estou cursando Engenharia de Software.</h3>
 
